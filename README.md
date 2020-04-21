@@ -1,4 +1,35 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Skeleton Ui Screen
+
+skeleton-screens-react.gif
+
+## What’s Unique About A Skeleton Screen?
+
+A skeleton UI resembles the page’s actual UI, so users will understand how quickly the web or mobile app will load even before the content has shown up. Here are a couple of reasons why you might want to consider using skeleton screens in your next project:
+
+- mimicking a page’s layout is easier with a skeleton screen,
+- contents loads progressively (not all at once).
+
+Skeleton screens are also referred to as:
+
+- ghost elements,
+- content placeholders,
+- content loaders.
+
+Blockchain.com, YouTube, Facebook, Medium, and other big tech companies display skeleton screens while their content loads to boost the UX.
+
+#### Types Of Skeleton Screens
+
+There are different kinds of skeleton screens. The major ones are text placeholders and image (or color) placeholders.
+
+Most developers prefer to use text placeholders as the skeleton UI on their pages because they’re easy to build, and the developer doesn’t require any details about the substance of the actual content; instead the skeleton mimics the UI.
+
+Color placeholders are harder to build because they require details about the content.
+
+Some popular packages make implementing skeleton screens in web apps easier. Let’s take a closer look at both of them:
+
+- React Placeholder
+
+* React Loading Skeleton
 
 ## Available Scripts
 
