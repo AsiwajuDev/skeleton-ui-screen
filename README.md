@@ -1,6 +1,9 @@
 # Skeleton Ui Screen
 
-(https://github.com/AsiwajuDev/skeleton-ui-screen/blob/6649dfc0194255c2272bd8035fe710228439f06e/skeleton-screens-react.gif)
+<h2 align="center">
+  <img src="https://github.com/AsiwajuDev/skeleton-ui-screen/blob/6649dfc0194255c2272bd8035fe710228439f06e/skeleton-screens-react.gif" alt="Skeleton UI Screen" width="600px" />
+  <br>
+</h2>
 
 ## What’s Unique About A Skeleton Screen?
 
